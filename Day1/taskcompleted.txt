@@ -1,0 +1,4 @@
+First of all started with the Introduction and then taught about the basic input and output
+operations how we can do in java syntatically.
+Next we did some basic activities which including basic mathematical operation and use of 
+Logical operator and decision making.

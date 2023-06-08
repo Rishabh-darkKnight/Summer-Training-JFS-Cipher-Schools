@@ -1,0 +1,3 @@
+Looping, Functions and Arrays discussed in class.
+All the loops are revised in beginning then quick go through with parametrized and return type functions and
+the class move with some basic of Array and at last 3 activity are discussed.
